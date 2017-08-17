@@ -1,2 +1,3 @@
 # hello-world
 just a first thing..
+heres a bit more about myself that i added...
